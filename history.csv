@@ -1,0 +1,43 @@
+Result,Justification
+Employee is Not Attrited,"The model predicts that the employee is not likely to be attrited. Possible reasons include:
+- The employee has 2 years of experience, indicating stability and familiarity with the company.
+- The monthly income is 4321, and it aligns well with industry standards, contributing to job satisfaction.
+- The total working years are 1, showcasing a commitment to the company and potential loyalty.
+- The employee is not working overtime (Yes), which may contribute to a healthy work-life balance.
+- Other features like daily rate (34), hourly rate (34), and monthly rate (34) are also considered in the prediction."
+Employee is Not Attrited,"The model predicts that the employee is not likely to be attrited. Possible reasons include:
+- The employee has 3 years of experience, indicating stability and familiarity with the company.
+- The monthly income is 1234, and it aligns well with industry standards, contributing to job satisfaction.
+- The total working years are 5, showcasing a commitment to the company and potential loyalty.
+- The employee is not working overtime (Yes), which may contribute to a healthy work-life balance.
+- Other features like daily rate (76), hourly rate (89), and monthly rate (98) are also considered in the prediction."
+Employee is Not Attrited,"The model predicts that the employee is not likely to be attrited. Possible reasons include:
+- The employee has 3 years of experience, indicating stability and familiarity with the company.
+- The monthly income is 1234, and it aligns well with industry standards, contributing to job satisfaction.
+- The total working years are 5, showcasing a commitment to the company and potential loyalty.
+- The employee is not working overtime (Yes), which may contribute to a healthy work-life balance.
+- Other features like daily rate (76), hourly rate (89), and monthly rate (98) are also considered in the prediction."
+Employee is Attrited,"The model predicts that the employee is likely to be attrited. Possible reasons include:
+- The employee has 10 years of experience, and it might be an indication of seeking new challenges or opportunities.
+- The monthly income is 1234, which might be lower than industry standards, potentially leading to dissatisfaction.
+- The total working years are 9, and it could be a sign of burnout or a desire for a change.
+- The employee is working overtime (Yes), which may contribute to work-related stress and attrition.
+- Other factors such as daily rate (56), hourly rate (89), and monthly rate (98) are also considered in the prediction."
+Employee is Attrited,"The model predicts that the employee is likely to be attrited. Possible reasons include:
+- The employee has 10 years of experience, and it might be an indication of seeking new challenges or opportunities.
+- The monthly income is 1234, which might be lower than industry standards, potentially leading to dissatisfaction.
+- The total working years are 9, and it could be a sign of burnout or a desire for a change.
+- The employee is working overtime (Yes), which may contribute to work-related stress and attrition.
+- Other factors such as daily rate (56), hourly rate (89), and monthly rate (98) are also considered in the prediction."
+Employee is Attrited,"The model predicts that the employee is likely to be attrited. Possible reasons include:
+- The employee has 10 years of experience, and it might be an indication of seeking new challenges or opportunities.
+- The monthly income is 1234, which might be lower than industry standards, potentially leading to dissatisfaction.
+- The total working years are 9, and it could be a sign of burnout or a desire for a change.
+- The employee is working overtime (Yes), which may contribute to work-related stress and attrition.
+- Other factors such as daily rate (56), hourly rate (89), and monthly rate (98) are also considered in the prediction."
+Employee is Attrited,"The model predicts that the employee is likely to be attrited. Possible reasons include:
+- The employee has 4 years of experience, and it might be an indication of seeking new challenges or opportunities.
+- The monthly income is 5678, which might be lower than industry standards, potentially leading to dissatisfaction.
+- The total working years are 6, and it could be a sign of burnout or a desire for a change.
+- The employee is working overtime (Yes), which may contribute to work-related stress and attrition.
+- Other factors such as daily rate (7567), hourly rate (987), and monthly rate (456) are also considered in the prediction."
